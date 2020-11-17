@@ -1,3 +1,7 @@
+### Forked from @pcotret code. 
+
+Adapted to run on **nexys4** board. memory block parameters are the same. 
+
 # ov7670-zedboard
 
 > Sources :
